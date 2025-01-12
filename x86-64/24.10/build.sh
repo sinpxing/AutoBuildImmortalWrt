@@ -37,6 +37,12 @@ PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+### 增加的软件 
+PACKAGES="$PACKAGES luci-i18n-smartdns-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-softethervpn-zh-cn"
+PACKAGES="$PACKAGES luci-app-vlmcsd"
+PACKAGES="$PACKAGES luci-app-mosdns"
+PACKAGES="$PACKAGES luci-app-adguardhome"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
