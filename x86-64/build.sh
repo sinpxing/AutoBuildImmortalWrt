@@ -40,8 +40,8 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-smartdns-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-softethervpn-zh-cn"
 PACKAGES="$PACKAGES luci-app-vlmcsd"
-PACKAGES="$PACKAGES luci-app-mosdns"
-PACKAGES="$PACKAGES luci-app-adguardhome"
+#PACKAGES="$PACKAGES luci-app-mosdns"
+#PACKAGES="$PACKAGES luci-app-adguardhome"
 
 
 # 增加几个必备组件 方便用户安装iStore
