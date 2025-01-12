@@ -41,8 +41,8 @@ PACKAGES="$PACKAGES luci-i18n-smartdns-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-softethervpn-zh-cn"
 PACKAGES="$PACKAGES luci-app-vlmcsd"
 PACKAGES="$PACKAGES luci-i18n-alist-zh-cn"
-#PACKAGES="$PACKAGES luci-app-mosdns"
-#PACKAGES="$PACKAGES luci-app-adguardhome"
+PACKAGES="$PACKAGES mosdns"
+PACKAGES="$PACKAGES adguardhome"
 
 
 # 增加几个必备组件 方便用户安装iStore
